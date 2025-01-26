@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 99b5fef562967194c85a15e4fe45cee8, type: 3}
+  m_Name: EncounterTest
+  m_EditorClassIdentifier: 
+  enemyPrefab: {fileID: 319377878182229394, guid: 05c334f20678f6449a94a1cbe49998bc, type: 3}
+  amountToSpawn: 1
+  encounterSplash: {fileID: 21300000, guid: 0a11f2d9480d0fb479107ffceb52ca64, type: 3}

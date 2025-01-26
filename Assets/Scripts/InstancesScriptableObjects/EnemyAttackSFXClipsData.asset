@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 589aaefae99be95489b663aa8e2a46f5, type: 3}
+  m_Name: EnemyAttackSFXClipsData
+  m_EditorClassIdentifier: 
+  text: 
+  audioClips:
+  - {fileID: 8300000, guid: bfd3618f612deac4c890c2e340d6b0a3, type: 3}
+  - {fileID: 8300000, guid: 31c3cbcb46705464aa020b7684f518ad, type: 3}
+  - {fileID: 8300000, guid: 7b16fb60d237a7f488bbedf5213e4fb3, type: 3}

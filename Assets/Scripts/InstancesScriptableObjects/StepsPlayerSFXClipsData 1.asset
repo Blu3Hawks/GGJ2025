@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 589aaefae99be95489b663aa8e2a46f5, type: 3}
+  m_Name: StepsPlayerSFXClipsData 1
+  m_EditorClassIdentifier: 
+  text: 
+  audioClips:
+  - {fileID: 8300000, guid: e693f4c69d55d0b45884762cf65450c0, type: 3}
+  - {fileID: 8300000, guid: 627ef966d656afe46b4740ce96322f52, type: 3}
+  - {fileID: 8300000, guid: bd0a19ff826285f41b80f1ce6b39ceac, type: 3}
+  - {fileID: 8300000, guid: 358e20b38838f6f4b9832e3c203adacb, type: 3}
